@@ -8,13 +8,13 @@
 
 ------------------------------------------------------------------------------------------------------
 
-Hi, I'm Hans, a front-end developer in 🇨🇳ShangHai ヽ(°▽、°)ﾉ.
+Hi, I'm Hans, a front-end developer in 🇨🇳ShangHai ヽ(°▽、°)ﾉ.<img src="https://wx4.sinaimg.cn/large/006ahuzrly1gf1b9zd3bzg305x037gmc.gif" height="30" />
 
-- work: Work with TypeScript、JavaScript、React、Less、Webpack
+- work: Work with TypeScript、JavaScript、React、Less、Webpack (*ﾟДﾟ*) 
 
-- Learning: Leaning RxJs、Canvas、Node now
+- Learning: Leaning RxJs、Canvas、Node now (๑•̀ㅂ•́)و✧
 
-- Hobby: Play Dota2 or other funny games，and like watching anime
+- Hobby: Play Dota2 or other funny games，and like watching anime ヽ(ﾟ∀ﾟ)ﾒ(ﾟ∀ﾟ)ﾉ
 
 [![Hans' github stats](https://github-readme-stats.vercel.app/api?username=MatchaDog)](https://github.com/anuraghazra/github-readme-stats)
 
