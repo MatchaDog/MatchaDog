@@ -8,7 +8,7 @@
 
 ------------------------------------------------------------------------------------------------------
 
-Hi, I'm Hans, a front-end developer in 🇨🇳ShangHai ヽ(°▽、°)ﾉ.<img src="https://wx4.sinaimg.cn/large/006ahuzrly1gf1b9zd3bzg305x037gmc.gif" height="30" />
+Hi, I'm Hans, a front-end developer in 🇨🇳ShangHai ヽ(°▽、°)ﾉ.<img src="https://wx4.sinaimg.cn/large/006ahuzrly1gf1b9zd3bzg305x037gmc.gif" height="24" style="position: absolute;height: 24px;" />
 
 - work: Work with TypeScript、JavaScript、React、Less、Webpack (*ﾟДﾟ*) 
 
