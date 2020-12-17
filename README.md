@@ -18,3 +18,4 @@ Hi, I'm Hans, a front-end developer in 🇨🇳ShangHai <img src="https://wx4.si
 
 [![Hans' github stats](https://github-readme-stats.vercel.app/api?username=MatchaDog&title_color=ff6e96&icon_color=79dafa&text_color=f8f8f2&bg_color=282a36)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Hans' github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MatchaDog&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
