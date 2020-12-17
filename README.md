@@ -16,6 +16,6 @@ Hi, I'm Hans, a front-end developer in 🇨🇳ShangHai <img src="https://wx4.si
 
 - Hobby: Play Dota2 or other funny games，and like watching anime <img src="https://wx1.sinaimg.cn/large/006ahuzrly1gf1ba12plgg30cu036gn3.gif" height="30" align="center" />
 
-[![Hans' github stats](https://github-readme-stats.vercel.app/api?username=MatchaDog&title_color=ff6e96&icon_color=79dafa&text_color=f8f8f2&bg_color=282a36)](https://github.com/anuraghazra/github-readme-stats)
+[![Hans' github stats](https://github-readme-stats.vercel.app/api?username=MatchaDog&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Hans' github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MatchaDog&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Hans' github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MatchaDog&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
