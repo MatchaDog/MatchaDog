@@ -10,7 +10,7 @@
 
 Hi, I'm Hans, a front-end developer in 🇨🇳ShangHai <img src="https://wx4.sinaimg.cn/large/006ahuzrly1gf1b9zd3bzg305x037gmc.gif" height="30" align="center" />
 
-- work: Work with TypeScript、JavaScript、React、Less、Webpack <img src="https://wx4.sinaimg.cn/large/006ahuzrly1gf1b9zpvprg306h036dga.gif" height="30" align="center" />
+- work: Work with TypeScript、React、Nestjs、Node <img src="https://wx4.sinaimg.cn/large/006ahuzrly1gf1b9zpvprg306h036dga.gif" height="30" align="center" />
 
 - Learning: Leaning Nestjs、MongoDB、Node now <img src="https://wx3.sinaimg.cn/large/006ahuzrly1gf1bdl63tfg305q036js6.gif" height="30" align="center" />
 
