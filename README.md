@@ -24,5 +24,5 @@ Hans is a front-end engineer living in 🇨🇳ShangHai <img src="https://wx4.si
 [![Jest](https://img.shields.io/badge/Jest-E46C17?style=flat-square&logo=Jest&logoColor=ffffff)](https://jestjs.io/) 
 [![Mocha](https://img.shields.io/badge/Mocha-D35B09?style=flat-square&logo=Mocha&logoColor=ffffff)](https://mochajs.org/)
 
-[![Hans' github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MatchaDog&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Hans' github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MatchaDog&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
