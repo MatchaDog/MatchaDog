@@ -15,7 +15,7 @@ Hans is a front-end engineer living in 🇨🇳ShangHai <img src="https://wx4.si
 [![Less](https://img.shields.io/badge/Less-45A4B8?style=flat-square&logo=Less&logoColor=ffffff)](https://lesscss.org/) 
 [![Sass](https://img.shields.io/badge/Sass-88C7D4?style=flat-square&logo=Sass&logoColor=ffffff)](https://sass-lang.com/) 
 [![React](https://img.shields.io/badge/React-5593C7?style=flat-square&logo=React&logoColor=ffffff)](https://reactjs.org/) 
-[![Vue](https://img.shields.io/badge/Vue-EA4560?style=flat-square&logo=Vue&logoColor=ffffff)](https://vuejs.org/) 
+[![Vue](https://img.shields.io/badge/Vue-EA4560?style=flat-square&logo=Vue.js&logoColor=ffffff)](https://vuejs.org/) 
 [![Webpack](https://img.shields.io/badge/Webpack-3BC4F3?style=flat-square&logo=Webpack&logoColor=ffffff)](https://webpack.js.org/) 
 [![gulp](https://img.shields.io/badge/gulp-C13B3A?style=flat-square&logo=gulp&logoColor=ffffff)](https://gulpjs.com/) 
 [![Git](https://img.shields.io/badge/Git-C1D72F?style=flat-square&logo=Git&logoColor=ffffff)](https://git-scm.com/) 
