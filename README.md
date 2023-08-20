@@ -1,8 +1,8 @@
 ## Hans
-[![1997](https://forthebadge.com/images/badges/ages-18.svg)](https://forthebadge.com)
-[![Love](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![Responsibility](https://forthebadge.com/images/badges/powered-by-responsibility.svg)](https://forthebadge.com)
-[![You](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com)
+[![1997](https://github.com/BraveUX/for-the-badge/blob/master/src/images/badges/ages-18.svg)](https://forthebadge.com)
+[![Love](https://github.com/BraveUX/for-the-badge/blob/master/src/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![Responsibility](https://github.com/BraveUX/for-the-badge/blob/master/src/images/badges/powered-by-responsibility.svg)](https://forthebadge.com)
+[![You](https://github.com/BraveUX/for-the-badge/blob/master/src/images/badges/for-you.svg)](https://forthebadge.com)
 
 ------------------------------------------------------------------------------------------------------
 
