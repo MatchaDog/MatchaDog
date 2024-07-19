@@ -1,12 +1,9 @@
 ## Hans
-[![1997](https://github.com/BraveUX/for-the-badge/blob/master/src/images/badges/ages-18.svg)](https://forthebadge.com)
-[![Love](https://github.com/BraveUX/for-the-badge/blob/master/src/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![Responsibility](https://github.com/BraveUX/for-the-badge/blob/master/src/images/badges/powered-by-responsibility.svg)](https://forthebadge.com)
-[![You](https://github.com/BraveUX/for-the-badge/blob/master/src/images/badges/for-you.svg)](https://forthebadge.com)
 
-------------------------------------------------------------------------------------------------------
-
-Hans is a front-end engineer living in 🇨🇳ShangHai <img src="https://wx4.sinaimg.cn/large/006ahuzrly1gf1b9zd3bzg305x037gmc.gif" height="30" align="center" />
+- 🇨🇳 &nbsp;Hans is a front-end engineer living in ShangHai <img src="https://wx4.sinaimg.cn/large/006ahuzrly1gf1b9zd3bzg305x037gmc.gif" height="30" align="center" />
+- 🔭 &nbsp;Hans is currently working on something cool :wink:
+- 🌱 &nbsp;Hans is currently learning Rust
+- 💬 &nbsp;Ask Hans about anything related to Javascript/Typescript or Solid/React/Nest
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-8FC965?style=flat-square&logo=JavaScript&logoColor=ffffff)](https://www.ecma-international.org/) 
 [![Typescript](https://img.shields.io/badge/Typescript-A7BFC1?style=flat-square&logo=Typescript&logoColor=ffffff)](https://www.typescriptlang.org/) 
